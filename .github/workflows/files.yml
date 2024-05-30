@@ -11,10 +11,10 @@ jobs:
     
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@main
 
     - name: Set up Python
-      uses: actions/setup-python@v2.2.2
+      uses: actions/setup-python@main
       with:
         python-version: 3.9
     
@@ -28,7 +28,7 @@ jobs:
       run: python convert.py
 
     - name: Create Artifacts
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@main
       with:
         name: converted-files
         path: converted

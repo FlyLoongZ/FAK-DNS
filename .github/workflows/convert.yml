@@ -11,10 +11,10 @@ jobs:
     
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@main
 
     - name: Set up Python
-      uses: actions/setup-python@v2.2.2
+      uses: actions/setup-python@main
       with:
         python-version: 3.9
     
@@ -40,7 +40,7 @@ jobs:
         fi
 
     - name: Push changes
-      uses: ad-m/github-push-action@v0.6.0
+      uses: ad-m/github-push-action@main
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: master

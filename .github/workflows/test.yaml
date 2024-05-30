@@ -3,8 +3,8 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
-    - uses: ruby/setup-ruby@v1
+    - uses: actions/checkout@main
+    - uses: ruby/setup-ruby@main
       with:
         ruby-version: '3.0'
         bundler-cache: true
@@ -13,7 +13,7 @@ jobs:
     - name: gen hash
       run: |
         echo "hash=$(sha256sum accelerated-domains.china.conf)" >> $GITHUB_ENV
-    - uses: actions/upload-artifact@v3
+    - uses: actions/upload-artifact@main
       with:
         name: ${{env.hash}}
         path: /dev/null
