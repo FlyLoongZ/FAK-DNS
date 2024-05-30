@@ -2,7 +2,7 @@ name: Convert Conf Files
 
 on:
   schedule:
-    - cron: "0 1 * * *" # every day
+    - cron: "0 1 * * 5" # Runs at 01:00, only on Friday
   workflow_dispatch:
 
 jobs:

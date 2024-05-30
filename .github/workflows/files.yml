@@ -2,7 +2,7 @@ name: Export files
 
 on:
   schedule:
-    - cron: "0 2 * * *" # 每天执行
+    - cron: "0 2 * * 5" # Runs at 02:00, only on Friday
   workflow_dispatch:
 
 jobs:
