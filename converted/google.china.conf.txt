@@ -1,190 +1,190 @@
-[/265.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/2mdn-cn.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/2mdn.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/admob-cn.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/adservice.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/ai.ytimg.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/app-measurement-cn.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/app-measurement.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/apps5.oingo.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/avail.googleflights.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/beacons.gcp.gvt2.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/beacons.gvt2.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/beacons2.gvt2.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/beacons3.gvt2.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/borgmon.adz.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/c.admob.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/c.android.clients.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/cache-management-prod.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/cache.pack.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/checkin.gstatic.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/clickserve.cc-dt.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/clickserve.dartsearch.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/clickserver.googleads.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/clientservices.googleapis.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/cn.widevine.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/cnappinstall.googleadapis.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/connectivitycheck.gstatic.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/content.googleadapis.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/crashlyticsreports-pa.googleapis.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/crl.pki.goog/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/csi.gstatic.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/dartsearch-cn.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/dg-meta.video.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/distribution.qatp1.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/distribution.qcpp1.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/distribution.qpdp1.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/dl.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/dl.l.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/doubleclick-cn.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/doubleclick.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/download.mlcc.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/download.qatp1.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/download.qcpp1.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/download.qpdp1.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/download.tensorflow.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/emmapplecodevice.googleapis.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/firebase-settings.crashlytics.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/fontfiles.googleadapis.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/fontfiles.googleapis.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/fonts.googleadapis.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/fonts.googleapis.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/fonts.gstatic.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/g0.gstatic.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/g1.gstatic.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/g2.gstatic.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/g3.gstatic.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/gonglchuangl.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/gongyichuangyi.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/google-analytics-cn.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/google-analytics.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/googleadservices-cn.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/googleadservices.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/googleanalytics.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/googleapis-cn.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/googleapps-cn.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/googleflights-cn.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/googleoptimize-cn.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/googleoptimize.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/googleplex.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/googlesyndication-cn.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/googlesyndication.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/googletagmanager-cn.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/googletagmanager.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/googletagservices-cn.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/googletagservices.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/googletraveladservices-cn.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/googletraveladservices.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/googlevads-cn.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/goto.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/gstatic-cn.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/gstaticadssl.l.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/gtm.oasisfeng.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/gvt1-cn.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/gvt2-cn.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/imasdk.googleapis.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/monitoring.qatp1.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/monitoring.qcpp1.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/monitoring.qpdp1.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/ocsp.pki.goog/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/pagead-googlehosted.l.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/performanceparameters.googleapis.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/pki-goog.l.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/play.1ucrs.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/prod-controlbe.floonet.goog/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/prod-databe.floonet.goog/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/prod.databe.floonet.goog/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/qagpublic.qatp1.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/qagpublic.qcpp1.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/qagpublic.qpdp1.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/qgadmin.qatp1.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/qgadmin.qcpp1.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/qgadmin.qpdp1.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/qpx.googleflights.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/qualysapi.qatp1.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/qualysapi.qcpp1.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/qualysapi.qpdp1.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/qualysguard.qatp1.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/qualysguard.qcpp1.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/qualysguard.qpdp1.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/recaptcha.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/recaptcha-cn.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/redirector.bdn.dev/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/redirector.c.chat.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/redirector.c.mail.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/redirector.c.pack.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/redirector.c.play.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/redirector.c.youtubeeducation.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/redirector.gcpcdn.gvt1.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/redirector.gvt1.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/redirector.offline-maps.gvt1.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/redirector.snap.gvt1.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/redirector.xn--ngstr-lra8j.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/regioninfo-pa.googleapis.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/safebrowsing.googleapis.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/scanservice1.qatp1.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/scanservice1.qcpp1.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/scanservice1.qpdp1.net/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/service.urchin.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/settings.xn--9trs65b.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/ssl-google-analytics.l.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/ssl.gstatic.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/staging-controlbe.floonet.goog/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/staging-databe.floonet.goog/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/staging-regioninfo-pa.googleapis.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/staging.databe.floonet.goog/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/support.1ucrs.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/tac.googleapis.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/test.bugs-qa.chromium.org/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/test.gbugs-qa.chromium.org/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/tools.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/tools.l.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/update.crashlytics.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/update.googleapis.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/wear.googleapis.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/www-google-analytics.l.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/www-googletagmanager.l.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/www.destinationurl.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/www.googleadapis.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/www.gstatic.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/www.pxcc.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/xn--9kr7l.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/xn--flw351e.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/applemdm.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/dns.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/g3doc.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/gmskiosk-ssl.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/go.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/gorom.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/goto.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/l2-uberproxy.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/logger.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/logger-dev.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/login.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/proxyconfig.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/rapture-autopush.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/rapture.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/rapture-prod.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/rapture-test.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/r.cert.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/ssh-relay.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/sslredirect.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/streaming-uberproxy.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/streaming-uberproxy-rotation.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/sup.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/supportcenter.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/sup-ssh-relay2.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/sup-ssh-relay.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/techstop.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/uberproxy4.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/uberproxy6.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/uberproxy.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/uberproxy-debug4.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/uberproxy-debug.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/uberproxy-pen-redirect.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/vext.corp.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/sup.l.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/uberproxy-with-cn.l.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/uberproxy-with-cn4.l.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/uberproxy-with-cn6.l.google.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
-[/qiao-cn.com/]223.6.6.6 119.29.29.29 117.50.10.10 211.140.13.188 202.101.172.37
+[/265.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/2mdn-cn.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/2mdn.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/admob-cn.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/adservice.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/ai.ytimg.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/app-measurement-cn.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/app-measurement.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/apps5.oingo.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/avail.googleflights.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/beacons.gcp.gvt2.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/beacons.gvt2.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/beacons2.gvt2.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/beacons3.gvt2.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/borgmon.adz.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/c.admob.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/c.android.clients.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/cache-management-prod.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/cache.pack.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/checkin.gstatic.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/clickserve.cc-dt.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/clickserve.dartsearch.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/clickserver.googleads.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/clientservices.googleapis.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/cn.widevine.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/cnappinstall.googleadapis.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/connectivitycheck.gstatic.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/content.googleadapis.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/crashlyticsreports-pa.googleapis.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/crl.pki.goog/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/csi.gstatic.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/dartsearch-cn.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/dg-meta.video.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/distribution.qatp1.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/distribution.qcpp1.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/distribution.qpdp1.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/dl.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/dl.l.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/doubleclick-cn.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/doubleclick.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/download.mlcc.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/download.qatp1.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/download.qcpp1.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/download.qpdp1.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/download.tensorflow.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/emmapplecodevice.googleapis.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/firebase-settings.crashlytics.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/fontfiles.googleadapis.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/fontfiles.googleapis.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/fonts.googleadapis.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/fonts.googleapis.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/fonts.gstatic.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/g0.gstatic.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/g1.gstatic.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/g2.gstatic.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/g3.gstatic.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/gonglchuangl.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/gongyichuangyi.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/google-analytics-cn.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/google-analytics.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/googleadservices-cn.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/googleadservices.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/googleanalytics.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/googleapis-cn.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/googleapps-cn.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/googleflights-cn.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/googleoptimize-cn.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/googleoptimize.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/googleplex.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/googlesyndication-cn.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/googlesyndication.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/googletagmanager-cn.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/googletagmanager.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/googletagservices-cn.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/googletagservices.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/googletraveladservices-cn.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/googletraveladservices.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/googlevads-cn.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/goto.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/gstatic-cn.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/gstaticadssl.l.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/gtm.oasisfeng.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/gvt1-cn.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/gvt2-cn.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/imasdk.googleapis.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/monitoring.qatp1.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/monitoring.qcpp1.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/monitoring.qpdp1.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/ocsp.pki.goog/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/pagead-googlehosted.l.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/performanceparameters.googleapis.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/pki-goog.l.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/play.1ucrs.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/prod-controlbe.floonet.goog/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/prod-databe.floonet.goog/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/prod.databe.floonet.goog/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/qagpublic.qatp1.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/qagpublic.qcpp1.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/qagpublic.qpdp1.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/qgadmin.qatp1.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/qgadmin.qcpp1.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/qgadmin.qpdp1.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/qpx.googleflights.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/qualysapi.qatp1.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/qualysapi.qcpp1.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/qualysapi.qpdp1.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/qualysguard.qatp1.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/qualysguard.qcpp1.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/qualysguard.qpdp1.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/recaptcha.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/recaptcha-cn.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/redirector.bdn.dev/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/redirector.c.chat.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/redirector.c.mail.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/redirector.c.pack.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/redirector.c.play.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/redirector.c.youtubeeducation.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/redirector.gcpcdn.gvt1.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/redirector.gvt1.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/redirector.offline-maps.gvt1.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/redirector.snap.gvt1.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/redirector.xn--ngstr-lra8j.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/regioninfo-pa.googleapis.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/safebrowsing.googleapis.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/scanservice1.qatp1.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/scanservice1.qcpp1.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/scanservice1.qpdp1.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/service.urchin.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/settings.xn--9trs65b.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/ssl-google-analytics.l.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/ssl.gstatic.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/staging-controlbe.floonet.goog/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/staging-databe.floonet.goog/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/staging-regioninfo-pa.googleapis.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/staging.databe.floonet.goog/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/support.1ucrs.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/tac.googleapis.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/test.bugs-qa.chromium.org/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/test.gbugs-qa.chromium.org/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/tools.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/tools.l.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/update.crashlytics.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/update.googleapis.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/wear.googleapis.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/www-google-analytics.l.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/www-googletagmanager.l.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/www.destinationurl.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/www.googleadapis.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/www.gstatic.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/www.pxcc.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/xn--9kr7l.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/xn--flw351e.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/applemdm.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/dns.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/g3doc.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/gmskiosk-ssl.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/go.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/gorom.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/goto.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/l2-uberproxy.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/logger.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/logger-dev.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/login.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/proxyconfig.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/rapture-autopush.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/rapture.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/rapture-prod.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/rapture-test.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/r.cert.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/ssh-relay.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/sslredirect.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/streaming-uberproxy.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/streaming-uberproxy-rotation.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/sup.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/supportcenter.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/sup-ssh-relay2.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/sup-ssh-relay.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/techstop.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/uberproxy4.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/uberproxy6.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/uberproxy.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/uberproxy-debug4.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/uberproxy-debug.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/uberproxy-pen-redirect.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/vext.corp.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/sup.l.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/uberproxy-with-cn.l.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/uberproxy-with-cn4.l.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/uberproxy-with-cn6.l.google.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/qiao-cn.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
