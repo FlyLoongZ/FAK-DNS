@@ -46,6 +46,7 @@
 [/cn-smp-paymentservices.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/configuration.apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/configuration.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/crl.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/cstat.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/cstat.cdn-apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/dd-cdn.origin-apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
