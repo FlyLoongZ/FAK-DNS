@@ -1,173 +1,173 @@
-[/a1.mzstatic.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/a2.mzstatic.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/a3.mzstatic.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/a4.mzstatic.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/a5.mzstatic.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/adcdownload.apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/adcdownload.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/amp-api-updates.apps.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/amp-api.media.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/api-p-ap-c.smoot.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/api-p-ap-d.smoot.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/api-p-ap-e.smoot.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/app-site-association.cdn-apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/appldnld.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/appldnld.g.aaplimg.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/appleid.cdn-apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/apps.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/apps.mzstatic.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/bag-cdn.itunes-apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/cdn-cn1.apple-mapkit.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/cdn-cn2.apple-mapkit.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/cdn-cn3.apple-mapkit.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/cdn-cn4.apple-mapkit.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/cdn.apple-mapkit.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/cdn1.apple-mapkit.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/cdn2.apple-mapkit.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/cdn3.apple-mapkit.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/cdn4.apple-mapkit.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/cds-cdn.v.aaplimg.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/cds.apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/cds.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/cdsassets.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/cl1-cdn.origin-apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/cl1.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/cl2-cn.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/cl2.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/cl3-cdn.origin-apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/cl3.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/cl4-cdn.origin-apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/cl4-cn.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/cl4.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/cl5-cdn.origin-apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/cl5.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/clientflow.apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/clientflow.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/cn-smp-paymentservices.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/configuration.apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/configuration.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/crl.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/cstat.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/cstat.cdn-apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/dd-cdn.origin-apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/dejavu.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/devstreaming-cdn.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/download.developer.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/experiments.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/gs-loc-cn.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/gs-loc.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/gsp10-ssl-cn.ls.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/gsp12-cn.ls.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/gsp13-cn.ls.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/gsp4-cn.ls.apple.com.edgekey.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/gsp4-cn.ls.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/gsp5-cn.ls.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/gsp85-cn-ssl.ls.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/gspe19-2-cn-ssl.ls.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/gspe19-cn-ssl.ls.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/gspe19-cn.ls-apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/gspe19-cn.ls.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/gspe21-ssl.ls.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/gspe21.ls.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/gspe35-ssl.ls.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/gspe79-cn-ssl.ls.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/guzzoni-apple-com.v.aaplimg.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/guzzoni.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/guzzoni.smoot.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/iadsdk.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/icloud-cdn.icloud.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/icloud.cdn-apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/images.apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/images.apple.com.edgekey.net.globalredir.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/images.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/init-kt.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/init-p01md-lb.push-apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/init-p01md.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/init-p01st-lb.push-apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/init-p01st.push.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/init-s01st-lb.push-apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/init-s01st.push.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/init.ess.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/iosapps.itunes.g.aaplimg.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/ipcdn.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/iphone-ld.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/iphone-ld.origin-apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/is1-ssl.mzstatic.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/is1.mzstatic.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/is2-ssl.mzstatic.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/is2.mzstatic.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/is3-ssl.mzstatic.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/is3.mzstatic.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/is4-ssl.mzstatic.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/is4.mzstatic.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/is5-ssl.mzstatic.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/is5.mzstatic.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/itunes-apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/itunes.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/itunesconnect.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/mesu-cdn.apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/mesu-china.apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/mesu.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/ml.cdn-apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/music.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/ocsp-lb.apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/ocsp.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/ocsp2-lb.apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/ocsp2.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/oscdn.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/oscdn.origin-apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/osxapps.itunes.g.aaplimg.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/pancake.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/pancake.cdn-apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/pba0.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/probe.siri.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/prod-support.apple-support.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/publicassets.cdn-apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/reserve-prime.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/s.mzstatic.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/seed-sequoia.siri.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/seed-swallow.siri.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/seed.siri.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/sequoia.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/sh-pod2-smp-device.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/shazam-insights.cdn-apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/smp-device-content.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/static.gc.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/stocks-sparkline-lb.apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/stocks-sparkline.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/store.apple.com.edgekey.net.globalredir.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/store.apple.com.edgekey.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/store.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/store.storeimages.apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/store.storeimages.cdn-apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/support-china.apple-support.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/support.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/swallow-apple-com.v.aaplimg.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/swallow.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/swcatalog-cdn.apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/swcatalog.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/swcdn.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/swcdn.g.aaplimg.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/swdist.apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/swdist.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/swscan-cdn.apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/swscan.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/sylvan.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/tj-pod1-smp-device.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/updates-http.cdn-apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/updates-http.cdn-apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/updates.cdn-apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/valid.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/valid.origin-apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/weather-data.apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/weather-data.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/weather-map.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/weather-map2.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/weatherkit.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/www.apple.com.edgekey.net.globalredir.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/www.apple.com.edgekey.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/www.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/xp.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query https://doh-pure.onedns.net/dns-query tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/a1.mzstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/a2.mzstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/a3.mzstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/a4.mzstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/a5.mzstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/adcdownload.apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/adcdownload.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/amp-api-updates.apps.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/amp-api.media.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/api-p-ap-c.smoot.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/api-p-ap-d.smoot.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/api-p-ap-e.smoot.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/app-site-association.cdn-apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/appldnld.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/appldnld.g.aaplimg.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/appleid.cdn-apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/apps.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/apps.mzstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/bag-cdn.itunes-apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/cdn-cn1.apple-mapkit.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/cdn-cn2.apple-mapkit.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/cdn-cn3.apple-mapkit.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/cdn-cn4.apple-mapkit.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/cdn.apple-mapkit.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/cdn1.apple-mapkit.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/cdn2.apple-mapkit.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/cdn3.apple-mapkit.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/cdn4.apple-mapkit.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/cds-cdn.v.aaplimg.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/cds.apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/cds.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/cdsassets.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/cl1-cdn.origin-apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/cl1.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/cl2-cn.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/cl2.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/cl3-cdn.origin-apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/cl3.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/cl4-cdn.origin-apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/cl4-cn.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/cl4.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/cl5-cdn.origin-apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/cl5.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/clientflow.apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/clientflow.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/cn-smp-paymentservices.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/configuration.apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/configuration.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/crl.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/cstat.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/cstat.cdn-apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/dd-cdn.origin-apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/dejavu.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/devstreaming-cdn.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/download.developer.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/experiments.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/gs-loc-cn.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/gs-loc.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/gsp10-ssl-cn.ls.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/gsp12-cn.ls.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/gsp13-cn.ls.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/gsp4-cn.ls.apple.com.edgekey.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/gsp4-cn.ls.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/gsp5-cn.ls.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/gsp85-cn-ssl.ls.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/gspe19-2-cn-ssl.ls.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/gspe19-cn-ssl.ls.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/gspe19-cn.ls-apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/gspe19-cn.ls.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/gspe21-ssl.ls.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/gspe21.ls.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/gspe35-ssl.ls.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/gspe79-cn-ssl.ls.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/guzzoni-apple-com.v.aaplimg.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/guzzoni.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/guzzoni.smoot.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/iadsdk.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/icloud-cdn.icloud.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/icloud.cdn-apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/images.apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/images.apple.com.edgekey.net.globalredir.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/images.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/init-kt.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/init-p01md-lb.push-apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/init-p01md.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/init-p01st-lb.push-apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/init-p01st.push.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/init-s01st-lb.push-apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/init-s01st.push.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/init.ess.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/iosapps.itunes.g.aaplimg.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/ipcdn.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/iphone-ld.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/iphone-ld.origin-apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/is1-ssl.mzstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/is1.mzstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/is2-ssl.mzstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/is2.mzstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/is3-ssl.mzstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/is3.mzstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/is4-ssl.mzstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/is4.mzstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/is5-ssl.mzstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/is5.mzstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/itunes-apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/itunes.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/itunesconnect.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/mesu-cdn.apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/mesu-china.apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/mesu.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/ml.cdn-apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/music.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/ocsp-lb.apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/ocsp.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/ocsp2-lb.apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/ocsp2.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/oscdn.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/oscdn.origin-apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/osxapps.itunes.g.aaplimg.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/pancake.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/pancake.cdn-apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/pba0.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/probe.siri.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/prod-support.apple-support.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/publicassets.cdn-apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/reserve-prime.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/s.mzstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/seed-sequoia.siri.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/seed-swallow.siri.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/seed.siri.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/sequoia.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/sh-pod2-smp-device.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/shazam-insights.cdn-apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/smp-device-content.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/static.gc.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/stocks-sparkline-lb.apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/stocks-sparkline.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/store.apple.com.edgekey.net.globalredir.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/store.apple.com.edgekey.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/store.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/store.storeimages.apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/store.storeimages.cdn-apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/support-china.apple-support.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/support.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/swallow-apple-com.v.aaplimg.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/swallow.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/swcatalog-cdn.apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/swcatalog.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/swcdn.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/swcdn.g.aaplimg.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/swdist.apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/swdist.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/swscan-cdn.apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/swscan.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/sylvan.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/tj-pod1-smp-device.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/updates-http.cdn-apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/updates-http.cdn-apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/updates.cdn-apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/valid.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/valid.origin-apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/weather-data.apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/weather-data.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/weather-map.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/weather-map2.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/weatherkit.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/www.apple.com.edgekey.net.globalredir.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/www.apple.com.edgekey.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/www.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/xp.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
