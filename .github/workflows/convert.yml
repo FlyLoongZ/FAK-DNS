@@ -1,9 +1,9 @@
 name: Convert Conf Files
 
 on:
-  schedule:
-    - cron: "0 1 * * 5" # Runs at 01:00, only on Friday
   workflow_dispatch:
+  workflow_call:
+
 
 jobs:
   convert_conf_files:
@@ -16,7 +16,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@main
       with:
-        python-version: 3.9
+        python-version: 3.12
     
     - name: Install dependencies
       run: pip3 install glob2

@@ -37,3 +37,9 @@ jobs:
         run: |
           echo "[Error] 由于上游仓库的 workflow 文件变更，导致 GitHub 自动暂停了本次自动更新，需要手动 Sync Fork 一次。"
           exit 1
+
+  call-convert_conf_files:
+    uses: github/workflows/convert.yml
+
+  call-export_files:
+    uses: .github/workflows/file.yml
