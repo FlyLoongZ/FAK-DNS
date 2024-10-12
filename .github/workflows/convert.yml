@@ -2,8 +2,10 @@ name: Convert Conf Files
 
 on:
   workflow_dispatch:
-  workflow_call:
-
+  workflow_run:
+    workflows: [Upstream Sync]
+    types:
+      - completed
 
 jobs:
   convert_conf_files:
