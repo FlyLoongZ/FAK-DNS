@@ -39,7 +39,7 @@ jobs:
           exit 1
 
   call-convert_conf_files:
-    uses: ./.github/workflows/convert.yml@master
+    uses: ./.github/workflows/convert.yml
 
   call-export_files:
-    uses: ./.github/workflows/file.yml@master
+    uses: ./.github/workflows/file.yml
