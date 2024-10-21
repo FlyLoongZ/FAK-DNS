@@ -1,190 +1,190 @@
-[/265.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/2mdn-cn.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/2mdn.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/admob-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/adservice.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/ai.ytimg.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/app-measurement-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/app-measurement.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/apps5.oingo.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/avail.googleflights.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/beacons.gcp.gvt2.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/beacons.gvt2.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/beacons2.gvt2.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/beacons3.gvt2.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/borgmon.adz.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/c.admob.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/c.android.clients.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/cache-management-prod.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/cache.pack.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/checkin.gstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/clickserve.cc-dt.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/clickserve.dartsearch.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/clickserver.googleads.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/clientservices.googleapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/cn.widevine.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/cnappinstall.googleadapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/connectivitycheck.gstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/content.googleadapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/crashlyticsreports-pa.googleapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/crl.pki.goog/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/csi.gstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/dartsearch-cn.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/dg-meta.video.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/distribution.qatp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/distribution.qcpp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/distribution.qpdp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/dl.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/dl.l.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/doubleclick-cn.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/doubleclick.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/download.mlcc.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/download.qatp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/download.qcpp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/download.qpdp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/download.tensorflow.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/emmapplecodevice.googleapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/firebase-settings.crashlytics.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/fontfiles.googleadapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/fontfiles.googleapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/fonts.googleadapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/fonts.googleapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/fonts.gstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/g0.gstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/g1.gstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/g2.gstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/g3.gstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/gonglchuangl.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/gongyichuangyi.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/google-analytics-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/google-analytics.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/googleadservices-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/googleadservices.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/googleanalytics.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/googleapis-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/googleapps-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/googleflights-cn.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/googleoptimize-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/googleoptimize.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/googleplex.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/googlesyndication-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/googlesyndication.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/googletagmanager-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/googletagmanager.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/googletagservices-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/googletagservices.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/googletraveladservices-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/googletraveladservices.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/googlevads-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/goto.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/gstatic-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/gstaticadssl.l.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/gtm.oasisfeng.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/gvt1-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/gvt2-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/imasdk.googleapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/monitoring.qatp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/monitoring.qcpp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/monitoring.qpdp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/ocsp.pki.goog/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/pagead-googlehosted.l.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/performanceparameters.googleapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/pki-goog.l.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/play.1ucrs.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/prod-controlbe.floonet.goog/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/prod-databe.floonet.goog/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/prod.databe.floonet.goog/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/qagpublic.qatp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/qagpublic.qcpp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/qagpublic.qpdp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/qgadmin.qatp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/qgadmin.qcpp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/qgadmin.qpdp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/qpx.googleflights.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/qualysapi.qatp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/qualysapi.qcpp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/qualysapi.qpdp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/qualysguard.qatp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/qualysguard.qcpp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/qualysguard.qpdp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/recaptcha.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/recaptcha-cn.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/redirector.bdn.dev/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/redirector.c.chat.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/redirector.c.mail.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/redirector.c.pack.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/redirector.c.play.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/redirector.c.youtubeeducation.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/redirector.gcpcdn.gvt1.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/redirector.gvt1.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/redirector.offline-maps.gvt1.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/redirector.snap.gvt1.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/redirector.xn--ngstr-lra8j.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/regioninfo-pa.googleapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/safebrowsing.googleapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/scanservice1.qatp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/scanservice1.qcpp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/scanservice1.qpdp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/service.urchin.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/settings.xn--9trs65b.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/ssl-google-analytics.l.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/ssl.gstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/staging-controlbe.floonet.goog/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/staging-databe.floonet.goog/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/staging-regioninfo-pa.googleapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/staging.databe.floonet.goog/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/support.1ucrs.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/tac.googleapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/test.bugs-qa.chromium.org/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/test.gbugs-qa.chromium.org/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/tools.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/tools.l.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/update.crashlytics.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/update.googleapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/wear.googleapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/www-google-analytics.l.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/www-googletagmanager.l.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/www.destinationurl.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/www.googleadapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/www.gstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/www.pxcc.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/xn--9kr7l.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/xn--flw351e.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/applemdm.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/dns.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/g3doc.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/gmskiosk-ssl.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/go.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/gorom.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/goto.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/l2-uberproxy.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/logger.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/logger-dev.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/login.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/proxyconfig.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/rapture-autopush.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/rapture.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/rapture-prod.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/rapture-test.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/r.cert.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/ssh-relay.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/sslredirect.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/streaming-uberproxy.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/streaming-uberproxy-rotation.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/sup.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/supportcenter.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/sup-ssh-relay2.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/sup-ssh-relay.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/techstop.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/uberproxy4.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/uberproxy6.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/uberproxy.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/uberproxy-debug4.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/uberproxy-debug.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/uberproxy-pen-redirect.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/vext.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/sup.l.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/uberproxy-with-cn.l.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/uberproxy-with-cn4.l.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/uberproxy-with-cn6.l.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
-[/qiao-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net
+[/265.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/2mdn-cn.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/2mdn.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/admob-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/adservice.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/ai.ytimg.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/app-measurement-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/app-measurement.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/apps5.oingo.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/avail.googleflights.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/beacons.gcp.gvt2.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/beacons.gvt2.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/beacons2.gvt2.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/beacons3.gvt2.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/borgmon.adz.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/c.admob.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/c.android.clients.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/cache-management-prod.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/cache.pack.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/checkin.gstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/clickserve.cc-dt.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/clickserve.dartsearch.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/clickserver.googleads.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/clientservices.googleapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/cn.widevine.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/cnappinstall.googleadapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/connectivitycheck.gstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/content.googleadapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/crashlyticsreports-pa.googleapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/crl.pki.goog/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/csi.gstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/dartsearch-cn.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/dg-meta.video.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/distribution.qatp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/distribution.qcpp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/distribution.qpdp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/dl.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/dl.l.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/doubleclick-cn.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/doubleclick.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/download.mlcc.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/download.qatp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/download.qcpp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/download.qpdp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/download.tensorflow.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/emmapplecodevice.googleapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/firebase-settings.crashlytics.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/fontfiles.googleadapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/fontfiles.googleapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/fonts.googleadapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/fonts.googleapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/fonts.gstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/g0.gstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/g1.gstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/g2.gstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/g3.gstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/gonglchuangl.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/gongyichuangyi.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/google-analytics-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/google-analytics.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/googleadservices-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/googleadservices.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/googleanalytics.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/googleapis-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/googleapps-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/googleflights-cn.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/googleoptimize-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/googleoptimize.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/googleplex.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/googlesyndication-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/googlesyndication.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/googletagmanager-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/googletagmanager.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/googletagservices-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/googletagservices.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/googletraveladservices-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/googletraveladservices.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/googlevads-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/goto.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/gstatic-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/gstaticadssl.l.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/gtm.oasisfeng.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/gvt1-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/gvt2-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/imasdk.googleapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/monitoring.qatp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/monitoring.qcpp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/monitoring.qpdp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/ocsp.pki.goog/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/pagead-googlehosted.l.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/performanceparameters.googleapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/pki-goog.l.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/play.1ucrs.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/prod-controlbe.floonet.goog/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/prod-databe.floonet.goog/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/prod.databe.floonet.goog/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/qagpublic.qatp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/qagpublic.qcpp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/qagpublic.qpdp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/qgadmin.qatp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/qgadmin.qcpp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/qgadmin.qpdp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/qpx.googleflights.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/qualysapi.qatp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/qualysapi.qcpp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/qualysapi.qpdp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/qualysguard.qatp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/qualysguard.qcpp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/qualysguard.qpdp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/recaptcha.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/recaptcha-cn.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/redirector.bdn.dev/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/redirector.c.chat.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/redirector.c.mail.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/redirector.c.pack.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/redirector.c.play.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/redirector.c.youtubeeducation.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/redirector.gcpcdn.gvt1.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/redirector.gvt1.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/redirector.offline-maps.gvt1.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/redirector.snap.gvt1.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/redirector.xn--ngstr-lra8j.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/regioninfo-pa.googleapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/safebrowsing.googleapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/scanservice1.qatp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/scanservice1.qcpp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/scanservice1.qpdp1.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/service.urchin.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/settings.xn--9trs65b.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/ssl-google-analytics.l.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/ssl.gstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/staging-controlbe.floonet.goog/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/staging-databe.floonet.goog/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/staging-regioninfo-pa.googleapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/staging.databe.floonet.goog/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/support.1ucrs.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/tac.googleapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/test.bugs-qa.chromium.org/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/test.gbugs-qa.chromium.org/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/tools.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/tools.l.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/update.crashlytics.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/update.googleapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/wear.googleapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/www-google-analytics.l.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/www-googletagmanager.l.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/www.destinationurl.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/www.googleadapis.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/www.gstatic.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/www.pxcc.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/xn--9kr7l.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/xn--flw351e.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/applemdm.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/dns.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/g3doc.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/gmskiosk-ssl.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/go.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/gorom.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/goto.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/l2-uberproxy.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/logger.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/logger-dev.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/login.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/proxyconfig.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/rapture-autopush.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/rapture.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/rapture-prod.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/rapture-test.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/r.cert.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/ssh-relay.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/sslredirect.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/streaming-uberproxy.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/streaming-uberproxy-rotation.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/sup.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/supportcenter.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/sup-ssh-relay2.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/sup-ssh-relay.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/techstop.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/uberproxy4.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/uberproxy6.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/uberproxy.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/uberproxy-debug4.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/uberproxy-debug.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/uberproxy-pen-redirect.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/vext.corp.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/sup.l.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/uberproxy-with-cn.l.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/uberproxy-with-cn4.l.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/uberproxy-with-cn6.l.google.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/qiao-cn.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
