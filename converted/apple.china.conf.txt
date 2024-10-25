@@ -51,6 +51,7 @@
 [/cstat.cdn-apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
 [/dd-cdn.origin-apple.com.akadns.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
 [/dejavu.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
+[/devimages-cdn.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
 [/devstreaming-cdn.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
 [/download.developer.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
 [/experiments.apple.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
