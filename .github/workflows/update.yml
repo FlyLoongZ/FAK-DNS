@@ -1,4 +1,4 @@
-name: Update Dns
+name: Update Dns List
 
 permissions:
   contents: write
@@ -38,6 +38,7 @@ jobs:
           exit 1
 
   convert_conf_files:
+    needs: sync_latest_from_upstream
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
@@ -76,6 +77,7 @@ jobs:
         branch: master
 
   export_files:
+    needs: [sync_latest_from_upstream, convert_conf_files]
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
