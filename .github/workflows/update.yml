@@ -38,9 +38,13 @@ jobs:
           exit 1
 
   convert_conf_files:
+    name: Convert conf files
     needs: sync_latest_from_upstream
     runs-on: ubuntu-latest
     steps:
+    - name: Wait time
+      run: sleep 5s
+
     - name: Checkout code
       uses: actions/checkout@main
 
@@ -77,9 +81,13 @@ jobs:
         branch: master
 
   export_files:
+    name: Export files
     needs: [sync_latest_from_upstream, convert_conf_files]
     runs-on: ubuntu-latest
     steps:
+    - name: Wait time
+      run: sleep 5s
+
     - name: Checkout code
       uses: actions/checkout@main
 
