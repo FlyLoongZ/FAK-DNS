@@ -33,6 +33,13 @@ def main():
             with open(txt_file, 'r') as txt:
                 fak_dns.write(txt.read())
 
+    # 添加 the_dns 到其他配置文件
+    for file_path in glob.glob('converted/*.conf.txt'):
+        with open(file_path, 'r') as file:
+            existing_content = file.read()
+        with open(file_path, 'w') as file:
+            file.write(the_dns + "\n" + existing_content)
+
 # 从环境变量中获取 DNS URL
 cn_dns = os.environ.get('CN_DNS').replace('\n', ' ')
 the_dns = os.environ.get('THE_DNS')
