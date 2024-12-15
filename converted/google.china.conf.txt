@@ -1,3 +1,9 @@
+https://1.1.1.1/dns-query
+https://dns.adguard-dns.com/dns-query
+https://dns.quad9.net/dns-query
+tls://dns.adguard-dns.com
+tls://dns.quad9.net
+tls://8.8.4.4
 [/265.com/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
 [/2mdn-cn.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
 [/2mdn.net/]tls://dot.pub tls://223.6.6.6 tls://dot-pure.onedns.net quic://223.6.6.6
