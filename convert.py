@@ -1,9 +1,11 @@
 import os
 import glob
+import datetime
 
 def convert_conf_to_txt(conf_file, txt_file, cn_dns):
     with open(conf_file, 'r') as conf:
         with open(txt_file, 'w') as txt:
+            # 处理 conf 文件内容
             for line in conf:
                 parts = line.strip().split('=')
                 if len(parts) != 2:
@@ -26,6 +28,7 @@ def main():
     # 合并生成的 txt 文件为 FAK-DNS.txt
     txt_files = glob.glob(os.path.join(converted_directory, '*conf.txt'))
     with open(os.path.join(converted_directory, 'FAK-DNS.txt'), 'w') as fak_dns:
+        fak_dns.write(f"# 文件生成时间: {current_time}\n")
         fak_dns.write(the_dns + "\n")  # 新增行，内容为自定义内容
         for txt_file in txt_files:
             with open(txt_file, 'r') as txt:
@@ -36,10 +39,12 @@ def main():
         with open(file_path, 'r') as file:
             existing_content = file.read()
         with open(file_path, 'w') as file:
+            file.write(f"# 文件生成时间: {current_time}\n")
             file.write(the_dns + "\n" + existing_content)
 
 # 从环境变量中获取 DNS URL
 cn_dns = os.environ.get('CN_DNS').replace('\n', ' ')
 the_dns = os.environ.get('THE_DNS')
+current_time = datetime.datetime.now().strftime("%Y.%m.%d %H:%M:%S%Z")
 
 main()
