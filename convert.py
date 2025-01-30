@@ -45,6 +45,6 @@ def main():
 # 从环境变量中获取 DNS URL
 cn_dns = os.environ.get('CN_DNS').replace('\n', ' ')
 the_dns = os.environ.get('THE_DNS')
-current_time = datetime.datetime.now().strftime("%Y.%m.%d %H:%M:%S%Z")
+current_time = datetime.datetime.now(datetime.timezone.utc).strftime("%Y.%m.%d %H:%M:%S %Z")
 
 main()
