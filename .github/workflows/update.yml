@@ -75,7 +75,7 @@ jobs:
           git config --local user.name "GitHub Action"
           current_time=$(date +'%Y-%m-%d %H:%M:%S')
           git add .
-          git commit -m "Convert conf files to txt - $current_time UTC"
+          git commit -m "Update file 🚀 - $current_time UTC"
         else
           echo "No changes to commit."
         fi
