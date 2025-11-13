@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-    - name: Checkout code
+    - name: Checkout main branch
       uses: actions/checkout@v4
 
     - name: Set up Python
@@ -24,6 +24,18 @@ jobs:
 
     - name: Install dependencies
       run: pip3 install glob2
+
+    - name: Check if file branch exists and prepare
+      id: check_branch
+      run: |
+        # 检查远程是否存在 file 分支
+        if git ls-remote --exit-code --heads origin file; then
+          echo "file_branch_exists=true" >> $GITHUB_OUTPUT
+          echo "File branch exists, will checkout later"
+        else
+          echo "file_branch_exists=false" >> $GITHUB_OUTPUT
+          echo "File branch does not exist, will create it"
+        fi
 
     - name: Download dnsmasq-china-list 
       run: |
@@ -38,6 +50,18 @@ jobs:
       run: |
         python convert.py
 
+    - name: Create or checkout file branch
+      run: |
+        if [ "${{ steps.check_branch.outputs.file_branch_exists }}" = "true" ]; then
+          # 如果 file 分支存在，切换到它
+          git fetch origin file
+          git checkout file
+        else
+          # 如果 file 分支不存在，创建一个新的孤儿分支
+          git checkout --orphan file
+          git rm -rf .
+        fi
+
     - name: Check for changes
       run: |
         rm ./*.china.conf
@@ -51,8 +75,8 @@ jobs:
           echo "No changes to commit."
         fi
 
-    - name: Push changes
+    - name: Push changes to file branch
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: main
+        branch: file
