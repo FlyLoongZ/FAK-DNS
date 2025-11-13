@@ -1,5 +1,6 @@
-FAK-DNS for AdGuard Home
+FAKADG-DNS for AdGuard Home
 ==================
+forked from <https://github.com/Leev1s/FAK-DNS>
 
 中国特定配置，改善您最喜爱的 DNS 服务器。
 
@@ -13,7 +14,7 @@ FAK-DNS for AdGuard Home
 
 Details
 =======
-主要的文件在`converted`文件夹下
+主要的文件在`file`分支下
 
 - `FAK-DNS.txt`: 融合了下述三个文件。
 
@@ -42,11 +43,11 @@ Details
 Usage
 =====
 
-根据[dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)的规则写了一个github action，自动同步它的新文件并建立AdGuard Home DNS规则。可以通过设置github自定义上游DOH/DOT服务器，默认国内走阿里DOH，国外走Cloudflare DOH。默认合并了googlehost，applehost，和国内域名。
+根据[dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)的规则写了一个github action，自动同步它的新文件并建立AdGuard Home DNS规则。可以通过设置github自定义上游DOH/DOT服务器，~~默认国内走阿里DOH，国外走Cloudflare DOH。~~默认合并了googlehost，applehost，和国内域名。
 
 ![](picture/github_setting.jpg)
 
-直接能用👉<https://raw.githubusercontent.com/Leev1s/FAK-DNS/master/converted/FAK-DNS.txt>
+直接能用👉<https://github.com/FlyLoongZ/FAKADG-DNS/raw/refs/heads/file/FAK-DNS.txt>
 如果你想自定义就fork一下，然后改一下，CN_DNS填国内的，THE_DNS是国外的，两者都可以添加多个，注意换行，每行填写一个。
 文件下载下来之后，进入AdGuard Home的目录，一般在/opt/AdGuardHome，编辑AdGuardHome.yaml
 
