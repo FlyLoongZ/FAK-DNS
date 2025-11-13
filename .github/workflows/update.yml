@@ -71,6 +71,7 @@ jobs:
     - name: Check for changes
       run: |
         rm ./*.china.conf
+        rm convert.py
         if git status --porcelain | grep -q .; then
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
