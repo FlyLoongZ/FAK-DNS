@@ -62,6 +62,8 @@ jobs:
           git rm -rf .
           echo "# Dns分流文件" > README.md
           git add README.md
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git commit -m "Initial commit for file branch"
         fi
 
