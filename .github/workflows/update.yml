@@ -60,6 +60,9 @@ jobs:
           # 如果 file 分支不存在，创建一个新的孤儿分支
           git checkout --orphan file
           git rm -rf .
+          echo "# Dns分流文件" > README.md
+          git add README.md
+          git commit -m "Initial commit for file branch"
         fi
 
     - name: Check for changes
