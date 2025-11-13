@@ -37,19 +37,6 @@ jobs:
           echo "File branch does not exist, will create it"
         fi
 
-    - name: Download dnsmasq-china-list 
-      run: |
-        wget https://github.com/felixonmars/dnsmasq-china-list/raw/refs/heads/master/accelerated-domains.china.conf
-        wget https://github.com/felixonmars/dnsmasq-china-list/raw/refs/heads/master/apple.china.conf
-        wget https://github.com/felixonmars/dnsmasq-china-list/raw/refs/heads/master/google.china.conf
-
-    - name: Convert Conf Files
-      env:
-        CN_DNS: ${{ secrets.CN_DNS }}
-        THE_DNS: ${{ secrets.THE_DNS }}
-      run: |
-        python convert.py
-
     - name: Create or checkout file branch
       run: |
         if [ "${{ steps.check_branch.outputs.file_branch_exists }}" = "true" ]; then
@@ -66,6 +53,20 @@ jobs:
           git config --local user.name "GitHub Action"
           git commit -m "Initial commit for file branch"
         fi
+
+    - name: Download dnsmasq-china-list 
+      run: |
+        wget https://github.com/felixonmars/dnsmasq-china-list/raw/refs/heads/master/accelerated-domains.china.conf
+        wget https://github.com/felixonmars/dnsmasq-china-list/raw/refs/heads/master/apple.china.conf
+        wget https://github.com/felixonmars/dnsmasq-china-list/raw/refs/heads/master/google.china.conf
+
+    - name: Convert Conf Files
+      env:
+        CN_DNS: ${{ secrets.CN_DNS }}
+        THE_DNS: ${{ secrets.THE_DNS }}
+      run: |
+        wget https://github.com/FlyLoongZ/FAK-DNS/raw/refs/heads/main/convert.py
+        python convert.py
 
     - name: Check for changes
       run: |
