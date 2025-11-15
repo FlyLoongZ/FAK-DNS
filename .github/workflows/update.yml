@@ -25,18 +25,6 @@ jobs:
     - name: Install dependencies
       run: pip3 install glob2
 
-    - name: Check if file branch exists and prepare
-      id: check_branch
-      run: |
-        # 检查远程是否存在 file 分支
-        if git ls-remote --exit-code --heads origin file; then
-          echo "file_branch_exists=true" >> $GITHUB_OUTPUT
-          echo "File branch exists, will checkout later"
-        else
-          echo "file_branch_exists=false" >> $GITHUB_OUTPUT
-          echo "File branch does not exist, will create it"
-        fi
-
     - name: Download dnsmasq-china-list 
       run: |
         wget https://github.com/felixonmars/dnsmasq-china-list/raw/refs/heads/master/accelerated-domains.china.conf
@@ -49,11 +37,14 @@ jobs:
         THE_DNS: ${{ secrets.THE_DNS }}
       run: |
         python convert.py
+        rm ./*.china.conf
 
     - name: Create or checkout file branch
       run: |
-        if [ "${{ steps.check_branch.outputs.file_branch_exists }}" = "true" ]; then
+        if git ls-remote --exit-code --heads origin file; then
           # 如果 file 分支存在，切换到它
+          git add .
+          git stash
           git fetch origin file
           git checkout file
         else
@@ -69,12 +60,11 @@ jobs:
 
     - name: Check for changes
       run: |
-        rm ./*.china.conf
+        git stash pop
         if git status --porcelain | grep -q .; then
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           current_time=$(date +'%Y-%m-%d %H:%M:%S')
-          git add .
           git commit -m "Update file 🚀 - $current_time UTC"
         else
           echo "No changes to commit."
