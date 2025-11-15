@@ -19,9 +19,23 @@ jobs:
 
     - name: Set up Python
       uses: actions/setup-python@v6
+      with:
+        python-version: 3.13
 
     - name: Install dependencies
       run: pip3 install glob2
+
+    - name: Check if file branch exists and prepare
+      id: check_branch
+      run: |
+        # 检查远程是否存在 file 分支
+        if git ls-remote --exit-code --heads origin file; then
+          echo "file_branch_exists=true" >> $GITHUB_OUTPUT
+          echo "File branch exists, will checkout later"
+        else
+          echo "file_branch_exists=false" >> $GITHUB_OUTPUT
+          echo "File branch does not exist, will create it"
+        fi
 
     - name: Download dnsmasq-china-list 
       run: |
@@ -35,18 +49,6 @@ jobs:
         THE_DNS: ${{ secrets.THE_DNS }}
       run: |
         python convert.py
-
-    - name: Check if file branch exists and prepare
-      id: check_branch
-      run: |
-        # 检查远程是否存在 file 分支
-        if git ls-remote --exit-code --heads origin file; then
-          echo "file_branch_exists=true" >> $GITHUB_OUTPUT
-          echo "File branch exists, will checkout later"
-        else
-          echo "file_branch_exists=false" >> $GITHUB_OUTPUT
-          echo "File branch does not exist, will create it"
-        fi
 
     - name: Create or checkout file branch
       run: |
