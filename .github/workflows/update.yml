@@ -60,7 +60,14 @@ jobs:
 
     - name: Check for changes
       run: |
-        git stash pop
+        # 弹出 stash,如果有冲突则使用 stash 中的版本
+        if ! git stash pop; then
+          echo "Merge conflicts detected, resolving by accepting stashed changes..."
+          # 对所有冲突文件使用 stash 中的版本
+          git checkout --theirs .
+          git add .
+        fi
+      
         if git status --porcelain | grep -q .; then
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
